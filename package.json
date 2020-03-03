@@ -1,6 +1,6 @@
 {
   "name": "@codeinc.mx/manage-images-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack 4 loader which creates 1x size images from @2x images and creates webp format",
   "main": "index.js",
   "scripts": {
